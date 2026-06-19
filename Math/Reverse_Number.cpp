@@ -12,8 +12,7 @@
         n=n/10;
     }
     return rev;
-
-    //
+    
  }
  int main()
  {
