@@ -67,3 +67,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+*.out
+GCD_of_Two_Number
+Palindrome_or_Not
+Reverse_Number
